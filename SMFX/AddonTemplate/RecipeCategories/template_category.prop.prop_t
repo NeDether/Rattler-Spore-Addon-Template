@@ -1,0 +1,5 @@
+uint32 CatID hash(cat_template)
+#All files in 'RecipeCategories' dynamically inject new crafting categories into the fabricator.'
+#To create a category, simply link it to a tool in 'spacetools~' I typically make blank tools to do this.
+#The spacetool provides the icon and the name of the category.
+#In this file, I am linking it to the 'cat_template.prop' spacetool using it's hash.

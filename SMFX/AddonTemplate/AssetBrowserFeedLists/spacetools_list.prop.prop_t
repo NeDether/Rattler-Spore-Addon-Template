@@ -1,0 +1,5 @@
+#Unfortunately this makes this popup incompatable with any other addon that uses this template.
+keys feedListCategories
+	SpaceTools_category
+	template_category
+end

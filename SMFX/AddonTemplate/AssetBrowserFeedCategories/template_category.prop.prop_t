@@ -1,0 +1,8 @@
+key parent AssetBrowserFeedCategories!Template.prop #As this addon has no real code functionality or way to relay back to the main RattlerSPORE dll, you got to hack in your own custom category to show players that your addon works.
+texts feedListCategoryName
+	"[YOUR NAME HERE]'s RattlerSPORE Addons"
+end
+#Link to the 'AssetBrowserFeedItems' item that contains the basic information about your addon.
+keys feedListItems
+	templateaddon
+end

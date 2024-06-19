@@ -1,0 +1,13 @@
+key parent spacetools~!ToolTemplate.prop
+string16 description "tempCat"
+#Despite being called "Description" this is actually the name of your category.
+texts spaceToolDescription
+	"Template Category"
+end
+texts spaceToolDetailDescription
+	"Hi there!"
+end
+key spaceToolImageID ufotools~!catTemplate.png #The icon of your category.
+texts spaceToolLockedDescription
+	"~blank_text~"
+end

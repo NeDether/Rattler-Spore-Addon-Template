@@ -1,0 +1,10 @@
+#I am 90% sure this allows the game to show that your addon is installed. I could be wrong though.
+key feedListItemIconKey ufotools~!catTemplate.png #The icon of your addon.
+keys feedListItemKeyList
+	newline
+
+end
+texts feedListItemName #The name of your addon.
+	"Template Addon"
+end
+key feedListItemType FeedItemMessage
